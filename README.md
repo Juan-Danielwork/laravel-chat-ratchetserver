@@ -11,6 +11,5 @@ A simple real time chat app built with Laravel and Ratchet WebSocket server.
 - Run `php artisan key:generate` and `php artisan migrate`
 
 ## Run the App
-
 - Start ratchet server with `php artisan ratchet:init`
 - Start app server with `php artisan serve`
